@@ -15,16 +15,16 @@ __国内视频资源__：[【斯坦福CS224N】(2021|中英) 深度自然语言�
 <br />
 
 __Assignments__ <br />
-[lab1:](https://github.com/eeeedy/cs224n/tree/main/lab1)   Exploring Word Vectors ✅<br />
-[lab2:](https://github.com/eeeedy/cs224n/tree/main/lab2)   word2vec ✅<br />
-[lab3:](https://github.com/eeeedy/cs224n/tree/main/lab3(%20Neural%20Dependency%20Parsing))    Neural Dependency Parsing ✅ <br />
-[lab4:](https://github.com/eeeedy/cs224n/tree/main/lab4(Seq2Seq%20Model%20with%20Attention%20))    Neural Machine Translation with RNNs and Analyzing NMT Systems ✅ <br />
-[lab5:](https://github.com/eeeedy/cs224n/tree/main/lab5(Pretraining%20and%20Fine_tuning%20Transformer%20Model))   Self-Attention, Transformers, and Pretraining ✅ <br />
+[lab1:](https://github.com/eeeedy/cs224n/tree/master/lab1)   Exploring Word Vectors ✅<br />
+[lab2:](https://github.com/eeeedy/cs224n/tree/master/lab2)   word2vec ✅<br />
+[lab3:](https://github.com/eeeedy/cs224n/tree/master/lab3(%20Neural%20Dependency%20Parsing))    Neural Dependency Parsing ✅ <br />
+[lab4:](https://github.com/eeeedy/cs224n/tree/master/lab4(Seq2Seq%20Model%20with%20Attention%20))    Neural Machine Translation with RNNs and Analyzing NMT Systems ✅ <br />
+[lab5:](https://github.com/eeeedy/cs224n/tree/master/lab5(Pretraining%20and%20Fine_tuning%20Transformer%20Model))   Self-Attention, Transformers, and Pretraining ✅ <br />
 <br />
 __Models/Model Params__ <br />
 [Click here to get Model Params for lab3!]()<br />
 [Click here to get Model Params for lab4!]()<br />
-[Click here to get Model Params for lab5!](https://github.com/eeeedy/cs224n/tree/main/lab5(Pretraining%20and%20Fine_tuning%20Transformer%20Model)/model%20params)<br />
+[Click here to get Model Params for lab5!](https://github.com/eeeedy/cs224n/tree/master/lab5(Pretraining%20and%20Fine_tuning%20Transformer%20Model)/model%20params)<br />
 <br />
 
 Usage:
