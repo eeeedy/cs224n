@@ -30,13 +30,13 @@ __Models/Model Params:__ (Maybe a little big)<br />
 __Usage:__
 <br />
 In the environment of git installed, use the command as follows:
-__$git clone https://github.com/eeeedy/NLP-cs224n_lab1-5__
+__$git clone https://github.com/eeeedy/cs224n__
 And you will get all the materials of this excellent course.
 Or, just click the green button "Clone or download" of this repo, then choose the "Download Zip", and you will get them.<br />
 <br />
 __使用方法:__
 <br />
 在git已安装的环境中，使用以下命令：
-__$git clone https://github.com/eeeedy/NLP-cs224n_lab1-5__
+__$git clone https://github.com/eeeedy/cs224n__
 你就会得到这门课程的所有的相关资料。
 或者，点击该仓库中绿色“Clone or download”按钮，再选择“Download Zip”，也会得到同样效果。
