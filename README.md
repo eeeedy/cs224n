@@ -21,9 +21,9 @@ __Assignments:__ <br />
 [lab4:](https://github.com/eeeedy/cs224n/tree/master/lab4(Seq2Seq%20Model%20with%20Attention%20))    Neural Machine Translation with RNNs and Analyzing NMT Systems ✅ <br />
 [lab5:](https://github.com/eeeedy/cs224n/tree/master/lab5(Pretraining%20and%20Fine_tuning%20Transformer%20Model))   Self-Attention, Transformers, and Pretraining ✅ <br />
 <br />
-__Models/Model Params:__ <br />
+__Models/Model Params:__ (Maybe a little big)<br />
 [Click here to get Model Params for lab3!](https://github.com/eeeedy/cs224n/tree/master/lab3(%20Neural%20Dependency%20Parsing)/results/20240313_195034)<br />
-[Click here to get Model Params for lab4!]()<br />
+[Click here to get Model Params for lab4!](https://github.com/eeeedy/cs224n/blob/master/lab4(Seq2Seq%20model%20with%20attention)/student/results)<br />
 [Click here to get Model Params for lab5!](https://github.com/eeeedy/cs224n/tree/master/lab5(Pretraining%20and%20Fine_tuning%20Transformer%20Model)/model%20params)<br />
 <br />
 
